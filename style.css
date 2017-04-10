@@ -1,0 +1,24 @@
+table {
+  width: 100%;
+  font-size: 7.5pt;
+  text-transform: uppercase;
+}
+table tr td {
+  padding: 10px;
+  text-align:center;
+}
+.TableHead td {
+  font-weight: bold;
+  background-color: orange;
+  color: white;
+}
+.top {
+  position: fixed;
+  top: 0;
+  right: 0;
+  margin: auto;
+  width: 100%;
+  display: table;
+  padding: 0 8px;
+  box-sizing: border-box;
+}
